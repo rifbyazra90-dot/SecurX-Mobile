@@ -1,0 +1,17 @@
+{
+  "name": "SecurX Mobile",
+  "short_name": "SecurX",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060913",
+  "theme_color": "#f43f5e",
+  "description": "Pusat Keamanan & Optimasi Sistem",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3067/3067400.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
